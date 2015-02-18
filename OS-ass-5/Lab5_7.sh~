@@ -1,0 +1,2 @@
+asterisk="*"
+ls $1$asterisk
